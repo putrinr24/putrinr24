@@ -1,8 +1,4 @@
-# Halo semua! 👋
-
-Perkenalkan nama saya **Putri Nur Rahmah**.<br>
-Saya seorang **UI/UX Designer** dan **Data Analis**. Saya berpengalaman mengerjakan 2 proyek bidang pilihan web development dan bertanggung jawab terhadap UI/UX web dan analisis.<br>
-Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/putri-nur-rahmah/) saya.
+# Hi All! 👋
 
 ### Github Statistic
 <p align="left">
